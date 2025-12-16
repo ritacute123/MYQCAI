@@ -1,0 +1,163 @@
+{
+  "framework": "ILR_Speaking",
+  "source": "Interagency Language Roundtable Skill Level Descriptions for Proficiency – Speaking (May 2021)",
+  "purpose": "Score validation (agree / disagree / borderline)",
+  "levels": {
+    "ILR_0": {
+      "label": "No Functional Proficiency",
+      "official_summary": "Unable to speak the language in almost any context; oral production limited to isolated words.",
+      "expected_evidence": [
+        "isolated words only",
+        "no sustained speech",
+        "no functional communicative ability"
+      ],
+      "contradictory_evidence": [
+        "connected sentences",
+        "ability to sustain an exchange"
+      ]
+    },
+
+    "ILR_0_plus": {
+      "label": "Memorized Proficiency",
+      "official_summary": "Produces memorized words and phrases with little regard to context; utterances are minimal and telegraphic.",
+      "expected_evidence": [
+        "memorized phrases",
+        "frequent long pauses",
+        "minimal exchanges",
+        "little to no turn-taking ability"
+      ],
+      "contradictory_evidence": [
+        "spontaneous sentence creation",
+        "ability to stay on topic"
+      ]
+    },
+
+    "ILR_1": {
+      "label": "Elementary Proficiency",
+      "official_summary": "Maintains simple exchanges on topics related to self despite pervasive errors.",
+      "expected_evidence": [
+        "simple questions and answers",
+        "disconnected or loosely connected sentences",
+        "frequent hesitation and false starts"
+      ],
+      "contradictory_evidence": [
+        "extended discourse",
+        "control of abstract topics"
+      ]
+    },
+
+    "ILR_1_plus": {
+      "label": "Elementary Plus",
+      "official_summary": "Initiates and maintains simple conversations beyond basic needs, though inaccurately.",
+      "expected_evidence": [
+        "short connected discourse",
+        "limited ability to discuss work or events",
+        "some turn-taking management"
+      ],
+      "contradictory_evidence": [
+        "consistent fluency",
+        "clear cohesive discourse"
+      ]
+    },
+
+    "ILR_2": {
+      "label": "Limited Working Proficiency",
+      "official_summary": "Communicates intended meaning in routine social and work-related interactions.",
+      "expected_evidence": [
+        "connected statements",
+        "can narrate and describe",
+        "handles routine complications",
+        "some turn-taking ability"
+      ],
+      "contradictory_evidence": [
+        "professional-level argumentation",
+        "highly abstract reasoning"
+      ]
+    },
+
+    "ILR_2_plus": {
+      "label": "Limited Working Plus",
+      "official_summary": "Communicates fully in many informal contexts and some professional contexts, though not consistently precise.",
+      "expected_evidence": [
+        "longer turns",
+        "generally coherent messages",
+        "increased fluency with occasional miscommunication"
+      ],
+      "contradictory_evidence": [
+        "consistent abstract discourse",
+        "near-native fluency"
+      ]
+    },
+
+    "ILR_3": {
+      "label": "General Professional Proficiency",
+      "official_summary": "Participates effectively in formal and informal contexts on general professional and societal topics.",
+      "expected_evidence": [
+        "cohesive extended discourse",
+        "abstract discussion",
+        "clear support of opinions",
+        "smooth turn-taking"
+      ],
+      "contradictory_evidence": [
+        "near-native idiomatic control",
+        "full stylistic flexibility"
+      ]
+    },
+
+    "ILR_3_plus": {
+      "label": "General Professional Plus",
+      "official_summary": "Uses culturally appropriate language and complex discourse strategies with occasional loss of precision.",
+      "expected_evidence": [
+        "high fluency",
+        "complex discourse strategies",
+        "use of idioms and cultural references"
+      ],
+      "contradictory_evidence": [
+        "consistent native-like performance"
+      ]
+    },
+
+    "ILR_4": {
+      "label": "Advanced Professional Proficiency",
+      "official_summary": "Speaks with precision on a wide range of topics; can persuade, negotiate, and present formally.",
+      "expected_evidence": [
+        "very fluent extended discourse",
+        "precise vocabulary including low-frequency items",
+        "effective register shifts"
+      ],
+      "contradictory_evidence": [
+        "effortless native-level performance across all contexts"
+      ]
+    },
+
+    "ILR_4_plus": {
+      "label": "Advanced Professional Plus",
+      "official_summary": "Produces articulate, nuanced language in most contexts with only rare mistakes.",
+      "expected_evidence": [
+        "near-native fluency",
+        "flexible discourse strategies",
+        "highly nuanced phrasing"
+      ],
+      "contradictory_evidence": [
+        "complete native mastery in all contexts"
+      ]
+    },
+
+    "ILR_5": {
+      "label": "Functionally Native Proficiency",
+      "official_summary": "Demonstrates mastery of the language with complete flexibility in almost any context.",
+      "expected_evidence": [
+        "native-level fluency",
+        "full pragmatic and cultural control",
+        "exceptional rhetorical effectiveness"
+      ],
+      "contradictory_evidence": []
+    }
+  },
+
+  "validation_outcomes": {
+    "agree": "Observed evidence aligns with official ILR descriptors",
+    "borderline": "Observed evidence overlaps adjacent ILR levels",
+    "disagree": "Observed evidence contradicts claimed ILR level"
+  }
+}

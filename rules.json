@@ -1,0 +1,22 @@
+[
+  {
+    "id": "A1.3",
+    "category": "Tester Rapport",
+    "description": "Positive tone and professional language"
+  },
+  {
+    "id": "A1.4",
+    "category": "Tester Rapport",
+    "description": "Mutual respect and understanding"
+  },
+  {
+    "id": "B1.1",
+    "category": "Tester General Administration",
+    "description": "Professional and neutral interaction"
+  },
+  {
+    "id": "E1.2",
+    "category": "Tester Comprehension",
+    "description": "Tester does not repeat questions unnecessarily"
+  }
+]
